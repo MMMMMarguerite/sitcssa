@@ -1,4 +1,4 @@
-<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+Ê<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 class Home extends CI_Controller {
 
@@ -16,6 +16,7 @@ class Home extends CI_Controller {
 		$this->load->library('form_validation');
 		//$this->load->model('user_model');
 		//$this->load->library('session');
+		//wo shi sb
 	}
 	public function index()
 	{

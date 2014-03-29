@@ -23,6 +23,7 @@ class Home extends CI_Controller {
 		$data = $this->path->getPath();
 		$this->load->helper('form');
 		$this->load->view('[v] home',$data);
+		//hahahaha
 	}
 	public function login()
 	

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+        Chinese language pack
+	Created by bcli on 2014-02-21.
+	Copyright (c) 2014 SITCSSA.ORG. All rights reserved.
+-->
+
+<xsl:stylesheet version="1.0"
+                xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+	<xsl:output encoding="UTF-8" indent="yes" method="xml" />
+
+	<xsl:template match="/">
+	</xsl:template>
+        
+        <home>
+            <slide>
+                <one>
+                    <title>
+                    </title>
+                    <subTitle>
+                    </subTitle>
+                    <btnText>
+                    </btnText>
+                    <btnColor>
+                    </btnColor>
+                    <img>
+                    </img>
+                </one>
+                <two>
+                     <title>
+                    </title>
+                    <subTitle>
+                    </subTitle>
+                    <btnText>
+                    </btnText>
+                    <btnColor>
+                    </btnColor>
+                    <img>
+                    </img>
+                </two>
+                <three>
+                    <title>
+                    </title>
+                    <subTitle>
+                    </subTitle>
+                    <btnText>
+                    </btnText>
+                    <btnColor>
+                    </btnColor>
+                    <img>
+                    </img>
+                </three>
+            </slide>
+            <showCase>
+                <one>
+
+                    <title>
+                        我们的坚持
+                    </title>
+                    <subTitle>
+                        只为一句承诺
+                    </subTitle>
+                    <content>
+                        Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+                    </content>
+                    <pic>
+                        [pic] showcase_pickUp.jpg
+                    </pic>
+                </one>
+                <two>
+                    <title>
+                        我们的成绩
+                    </title>
+                    <subTitle>
+                        来自不懈的追求
+                    </subTitle>
+                    <content>
+                        Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+                    </content>
+                    <img>
+                        [pic] showcase_creative.jpg
+                    </img>
+                </two>
+                <three>
+                    <title>
+                        我们的未来
+                    </title>
+                    <subTitle>
+                        掌握在你的手中
+                    </subTitle>
+                    <content>
+                        Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+                    </content>
+                    <img>
+                        [pic] showcase_talent.jpg
+                    </img>
+                </three>
+            </showCase>
+        
+        
+        </home>
+        
+        
+</xsl:stylesheet>

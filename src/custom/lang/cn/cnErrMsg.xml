@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+        Chinese language pack
+	Created by bcli on 2014-02-21.
+	Copyright (c) 2014 SITCSSA.ORG. All rights reserved.
+-->
+
+<xsl:stylesheet version="1.0"
+                xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+	<xsl:output encoding="UTF-8" indent="yes" method="xml" />
+
+	<e101>史蒂文斯用户名格式错误</e101>
+	<e102>该邮箱已被注册</e102>
+	<e103>该邮箱拥有人已设置拒收本站确认邮件</e103>
+	<e104>该邮箱发送次数过多，无法继续发送</e104>
+
+        
+        
+</xsl:stylesheet>

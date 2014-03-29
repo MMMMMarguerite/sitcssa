@@ -8,7 +8,6 @@ class Home extends CI_Controller {
 	 * 		http://sitcssa.org/
 	 * This controller is set as the default controller
 	 */
-	//dafsff
 	public function __construct()
 	{
 		parent::__construct();
